@@ -24,7 +24,6 @@ td {
     padding: 8px;
 }
 
-/* kolom label di sebelah kiri */
 td:first-child {
     background-color: #f0f9ff;
     width: 35%;
